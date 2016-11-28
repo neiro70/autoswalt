@@ -1,3 +1,1 @@
-# ideaSystems
-# autoswalt
 # autoswalt
